@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f99adbd0-44d6-415c-821a-bdca436b5205" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/deep_copy_immutability.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dict_comprehensions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flatten_list_recursive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forced_keyword_arguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/martins_iQ_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parsexml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple_recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/licence_key_gen.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,11 +49,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/forced_keyword_arguments.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="255">
+              <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/licence_key_gen.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#1#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/lib/python3.6/string.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="27" column="6" selection-start-line="27" selection-end-line="27" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -87,15 +102,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret selection-end-line="8" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/simple_recursion.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -151,6 +157,7 @@
         <option value="$PROJECT_DIR$/parsexml.py" />
         <option value="$PROJECT_DIR$/flatten_list_recursive.py" />
         <option value="$PROJECT_DIR$/forced_keyword_arguments.py" />
+        <option value="$PROJECT_DIR$/licence_key_gen.py" />
       </list>
     </option>
   </component>
@@ -196,28 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.forced_keyword_arguments">
-    <configuration name="deep_copy_immutability" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="100 days Challenge" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deep_copy_immutability.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.licence_key_gen">
     <configuration name="flatten_list_recursive" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100 days Challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -252,6 +238,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/forced_keyword_arguments.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="licence_key_gen" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="100 days Challenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/licence_key_gen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -304,11 +311,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.licence_key_gen" />
         <item itemvalue="Python.forced_keyword_arguments" />
         <item itemvalue="Python.flatten_list_recursive" />
         <item itemvalue="Python.parsexml" />
         <item itemvalue="Python.simple_recursion" />
-        <item itemvalue="Python.deep_copy_immutability" />
       </list>
     </recent_temporary>
   </component>
@@ -334,15 +341,15 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Python Console" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.37839305" weight="0.32068965" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.37785017" visible="true" weight="0.32068965" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.49674267" visible="true" weight="0.4177515" />
+      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.49674267" weight="0.4177515" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" sideWeight="0.50325733" side_tool="true" visible="true" weight="0.4177515" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" sideWeight="0.6221498" side_tool="true" visible="true" weight="0.32068965" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -438,25 +445,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/forced_keyword_arguments.py</url>
-          <line>13</line>
+          <line>17</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/forced_keyword_arguments.py</url>
-          <line>8</line>
+          <line>10</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/lib/python3.6/string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="30" column="53" lean-forward="true" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../virtual_enviroment/py3.6/lib/python3.6/sre_compile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="474">
@@ -665,8 +665,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/forced_keyword_arguments.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="255">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="27" column="6" selection-start-line="27" selection-end-line="27" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/licence_key_gen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#1#27#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
