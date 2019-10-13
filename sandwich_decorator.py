@@ -1,3 +1,5 @@
+import re
+from collections import ChainMap, Counter
 from functools import wraps
 
 UPPER_SLICE = "=== Upper bread slice ==="
@@ -20,3 +22,14 @@ def sandwich(func):
         return result
 
     return wrapped
+
+
+baseline = {'music': 'bach', 'art': 'rembrandt'}
+adjustments = {'art': 'van gogh', 'opera': 'carmen'}
+# print(ChainMap(adjustments, baseline))
+
+
+words = re.findall(r'\w+', open('add.txt').read().lower())
+print(words)
+vals = Counter(words).most_common(5)
+print(vals)
